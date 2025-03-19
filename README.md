@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atriavo Saha</h1>
 <h3 align="center">Software Developer | Full-Stack Engineer | Open-Source Enthusiast</h3>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="500" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atx18&label=Profile%20views&color=0e75b6&style=flat" alt="atx18" /> </p>
